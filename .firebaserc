@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-d258f": {
+      "hosting": {
+        "ingresoEgreso": [
+          "ingreso-egreso-app-d258f"
+        ]
+      }
+    }
+  }
+}
